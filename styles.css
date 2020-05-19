@@ -1,3 +1,22 @@
 body {
-  background-color: dodgerblue;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+div{
+  background-color: #364f6b;
+  color: #f5f5f5;
+}
+h1 {
+  margin-top: 0;
+}
+.top-container {
+  background-color: blue;
+  padding: 50px; margin : 40px;
+  width: 200px;
+}
+.bottom-container {
+  background-color: red;
+  padding: 50px; margin : 40px;
+  width: 200px;
 }
