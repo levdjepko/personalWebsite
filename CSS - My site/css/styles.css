@@ -6,12 +6,12 @@ body {
 }
 .bottomCLoud {
   position: absolute;
-  left: 350px;
-  top: 200px;
+  left: 280px;
+  top: 190px;
 }
 .topCloud {
   position: absolute;
-  right: 350px;
+  right: 300px;
   top: 50px;
 }
 div{
@@ -19,18 +19,59 @@ div{
   color: #f5f5f5;
 }
 h1 {
-  margin-top: 0;
+  margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  font-size: 3rem;
+  font-size: 4.5rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h1, h2 {
+  color: #d4f3ef;
+}
+h3, a {
+  color: #d4f3ef;
 }
 .top-container {
   background-color: #364f6b;
   margin-top: 100px;
   width: 100%;
+  line-height: 1.5;
 }
 .bottom-container {
 
 }
 .profileImage {
   border-radius: 90px;
+}
+.developerTag {
+  font-weight: normal;
+}
+.skill-row, .profile {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+}
+ .firstImage{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.secondImage {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.thirdImage{
+ float: left;
+ width: 25%;
+ margin-right: 30px;
+}
+.profileImage {
+  float: left;
+  margin-right: 30px;
+}
+hr {
+  width: 50px;
 }
