@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  background-color: #364f6b;
+  color: #f5f5f5;
+}
+.bottomCLoud {
+  position: absolute;
+  left: 280px;
+  top: 190px;
+}
+.topCloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+div{
+  background-color: #364f6b;
+  color: #f5f5f5;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.5rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h1, h2 {
+  color: #d4f3ef;
+}
+h3{
+  color: #d4f3ef;
+}
+a {
+  color: #d4f3ef;
+  text-decoration: none;
+}
+.top-container {
+  background-color: #364f6b;
+  margin-top: 100px;
+  width: 100%;
+  line-height: 1.5;
+}
+
+.profileImage {
+  border-radius: 90px;
+}
+.developerTag {
+  font-weight: normal;
+}
+.skill-row, .profile {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 1.5;
+}
+ .firstImage{
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.secondImage {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.thirdImage{
+ float: left;
+ width: 25%;
+ margin-right: 30px;
+}
+.fourthImage {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.fifthImage{
+ float: left;
+ width: 25%;
+ margin-right: 30px;
+}
+.profileImage {
+  float: left;
+  margin-right: 30px;
+}
+.mySkills {
+  margin-top: 70px;
+}
+hr {
+  border-color: #fc5185;
+  border-style: dotted none none none;
+  height: 0;
+  width: 5%;
+  border-width: 4px;
+}
+.bottom-container {
+  color: #3fc1c9;
+}
+.bottom-container a:hover{
+  color: #fc5185;
+}
+.footer-link {
+  margin: 10px 20px 10px 20px;
+}
+.contact-me a{
+  border-radius: 10px;
+  border: solid 1px;
+  padding: 10px;
+  font-size: 1rem;
+  display: inline-block;
+  background-color: #3fc1c9;
+  color: #f5f5f5;
+  margin: 30px;
+}
+.contact-me a:hover {
+  color: #fc5185;
+}
