@@ -15,7 +15,7 @@ body {
   right: 300px;
   top: 50px;
 }
-div{
+div {
   background-color: #364f6b;
   color: #f5f5f5;
 }
@@ -23,14 +23,14 @@ h1 {
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   font-size: 4.5rem;
+  color: #d4f3ef;
 }
 h2 {
   font-size: 1.5rem;
-}
-h1, h2 {
   color: #d4f3ef;
 }
-h3{
+
+h3 {
   color: #d4f3ef;
 }
 a {
@@ -86,7 +86,7 @@ a {
   margin-right: 30px;
 }
 .mySkills {
-  margin-top: 70px;
+  margin-top: 50px;
 }
 hr {
   border-color: #fc5185;
@@ -97,6 +97,8 @@ hr {
 }
 .bottom-container {
   color: #3fc1c9;
+  background-color: #565f8b;
+  padding: 15px 0 15px 0;
 }
 .bottom-container a:hover{
   color: #fc5185;
